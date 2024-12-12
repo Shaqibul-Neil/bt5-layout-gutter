@@ -1,0 +1,17 @@
+
+.box{
+	min-height: 100px ;
+	background-color: red;
+}
+.box2{
+	min-height: 50px ;
+	background-color: blue;
+}
+.box3{
+	min-height: 25px ;
+	background-color: black;
+}
+.box4{
+	min-height: 15px ;
+	background-color: white;
+}
